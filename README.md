@@ -1,5 +1,5 @@
 # Lottery Bot
-
+视频介绍:https://cryptomarketpool.com/front-running-a-solidity-smart-contract/
 Here is how to get this bot started on a development envirnoment.
 
 Exercise inspired from [this article here](https://medium.com/@amanusk/the-fastest-draw-on-the-blockchain-bzrx-example-6bd19fabdbe1).
